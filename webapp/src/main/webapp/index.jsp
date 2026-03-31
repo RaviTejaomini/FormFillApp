@@ -26,7 +26,7 @@
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="mother"><b>Aadhar Number</b></label>
+    <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
 
